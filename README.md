@@ -5,5 +5,9 @@
 
 
 oci_terraform
+<<<<<<< HEAD
 - main.tf ## contains mouduel information used accorss
 - 
+=======
+- main.tf ## contains mouduel information used accorss 
+>>>>>>> 994dd78fa86fc99a58937a9998e39a940701be61
