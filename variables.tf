@@ -1,0 +1,1 @@
+../stage/global/iam/variables.tf

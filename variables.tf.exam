@@ -1,0 +1,19 @@
+variable "tenancy_ocid" {
+  default = "ocid1.tenancy.oc1..aaaaaaaaxielw3n2oawo34sjhzx*******4fakjctpj5hplg3a"  ## root tenancy ocid
+}
+variable "user_ocid" {
+  default = "ocid1.user.oc1..aaaaaaaa3fgsz6vmv*******4kzgyuerfsu7a"  ## Admin user ocid
+}
+variable "fingerprint" {
+  default = "4c:8c:e7:********a:e0:0b:d3:04:ef"
+}
+variable "private_key_path" {
+  default = "/Users/*****/.oci/oci_api_key.pem"
+}
+variable "region_phx" {
+  default = "us-phoenix-1"
+}
+
+variable "compartment_ocid" {
+  default = "ocid1.tenancy.oc1..aaaaaaaaxielw3n2oawo34sjh************n4fakj********g3a" ## root tenancy ocid
+}
